@@ -45,7 +45,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/raydiasofc/raydiasofc/output/snake.svg" alt="Snake animation" />
 
 ###
 
